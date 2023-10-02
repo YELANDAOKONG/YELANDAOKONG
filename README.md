@@ -11,8 +11,17 @@
 
 ---
 
+<style>
+  @media (max-width: 600px) {
+    img {
+      width: 90%;
+    }
+  }
+
+</style>
+
 <div align="center">
-  <div style="display: flex;  justify-content: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" style="width: 45%; margin: 10px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" style="width: 45%; margin: 10px;"/>
   </div>
