@@ -18,9 +18,9 @@
   </div>
 </div>-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" style="width: 45%; margin: 10px;"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" style="width: 45%; margin: 10px;"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" style="width: 45%; margin: 10px;"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" style="width: 45%; margin: 10px;"/>
 
 
 ---
