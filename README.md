@@ -12,11 +12,11 @@
 ---
 
 <div align="center">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" />
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" />
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" />
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" />
 </div>
 
-
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YELANDAOKONG&theme=react-dark&bg_color=20232a&hide_border=true" />
