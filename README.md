@@ -22,6 +22,10 @@
 ---
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YELANDAOKONG&theme=react-dark&bg_color=20232a&hide_border=true" />
+</div>
+
+<div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=YELANDAOKONG&border_radius=8&date_format=%5BY.%5Dn.j" />
 </div>
 
