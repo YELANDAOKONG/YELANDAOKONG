@@ -13,8 +13,8 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" style="width: 45%; height: 100%; margin: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" style="width: 45%; height: 100%; margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" style="width: 45%; height: 200px; margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" style="width: 45%; height: 200px; margin: 10px;"/>
   </div>
 </div>
 
