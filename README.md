@@ -12,13 +12,14 @@
 ---
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" />
 </div>
 
+---
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=YELANDAOKONG&border_radius=8&date_format=%5BY.%5Dn.j" />
