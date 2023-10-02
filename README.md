@@ -18,11 +18,11 @@
   </div>
 </div>-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" style="width: 45%; margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" style="margin: 10px;"/>
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" style="width: 45%; margin: 10px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" style="margin: 10px;"/>
 </div>
 
 ---
