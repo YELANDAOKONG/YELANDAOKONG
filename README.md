@@ -12,8 +12,8 @@
 ---
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" />
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" />
 </div>
 
 
