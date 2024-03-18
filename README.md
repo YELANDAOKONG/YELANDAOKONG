@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  > ### Welcome to YELANDAOKONG 's Github
+  > ### Welcome to My Github
 
   [My Blog](https://ykws.xyz/)😊
 
