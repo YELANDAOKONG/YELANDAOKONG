@@ -5,7 +5,9 @@
 
   > ### Welcome to YELANDAOKONG 's Github
 
-  [YELANDAOKONG 's Website](https://ykws.xyz/)😊
+  [My Blog](https://ykws.xyz/)😊
+
+  
   
 </div>
 
