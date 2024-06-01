@@ -5,9 +5,8 @@
 
   > ### Welcome to My Github
 
-  [My Blog](https://ykws.xyz/)😊
+  [My Blog Website](https://ykws.xyz/)😊
 
-  
   
 </div>
 
