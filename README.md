@@ -5,7 +5,7 @@
 
   > ### Welcome to My Github
 
-  [My Blog Website](https://ykws.xyz/)😊
+  [My Blog Website](https://blog.yknw.xyz/)😊
 
   
 </div>
