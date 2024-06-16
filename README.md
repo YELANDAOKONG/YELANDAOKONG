@@ -12,7 +12,11 @@
 
 ---
 
-![](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/assets/github-contribution-grid-snake.svg)
+[![Skills](https://skillicons.dev/icons?i=csharp,java,python,rust,js,html,css)](https://skillicons.dev)
+
+---
+
+![Snake](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/assets/github-contribution-grid-snake.svg)
 
 ---
 
