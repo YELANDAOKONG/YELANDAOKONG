@@ -1,16 +1,18 @@
 # YELANDAOKONG
 ---
 
-<div align="center">
+<!--<div align="center">-->
 
   > ### Welcome to My Github
 
   [My Blog Website](https://blog.yknw.xyz/)😊
 
   
-</div>
+<!--</div>-->
 
 ---
+
+### My Skills
 
 [![Skills](https://skillicons.dev/icons?i=csharp,java,python,rust,js,html,css)](https://skillicons.dev)
 
