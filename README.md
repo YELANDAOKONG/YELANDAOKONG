@@ -9,6 +9,8 @@
 
   [My Private Organization(Github)](https://github.com/YELANDAOKONG-ORGANIZATION/)😊
 
+  > The reason for creating this 'organization' is that Github cannot fork the same repository twice.
+
   
 <!--</div>-->
 
