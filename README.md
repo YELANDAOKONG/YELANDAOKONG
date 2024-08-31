@@ -20,6 +20,11 @@
 
 [![Skills](https://skillicons.dev/icons?i=cs,java,kotlin,nodejs,python,rust,cpp,js,ts,html,css,bootstrap,git,docker,linux,windows,vim,kubernetes,blender,godot,fastapi,flask,md,mysql,dotnet)](https://skillicons.dev)
 
+<!--
+> ### Main Programming Language Skills
+> [![Skills](https://skillicons.dev/icons?i=cs,java,python,rust)](https://skillicons.dev)
+-->
+
 ---
 
 <!-- ![Snake](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/assets/github-contribution-grid-snake.svg) -->
