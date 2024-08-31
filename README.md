@@ -18,7 +18,7 @@
 
 ### My Skills
 
-[![Skills](https://skillicons.dev/icons?i=cs,java,kotlin,nodejs,python,rust,cpp,js,html,css,git,docker,vim,kubernetes,blender,fastapi,flask,md)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,java,kotlin,nodejs,python,rust,cpp,js,ts,html,css,bootstrap,git,docker,linux,windows,vim,kubernetes,blender,godot,fastapi,flask,md,mysql,dotnet)](https://skillicons.dev)
 
 ---
 
