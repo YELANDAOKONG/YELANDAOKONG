@@ -43,8 +43,14 @@
 </div>
 
 <div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&count_private=true" style="margin: 10px;"/>
+</div>
+
+
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" style="margin: 10px;"/>
 </div>
+
 
 ---
 
