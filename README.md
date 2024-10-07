@@ -39,16 +39,16 @@
 </div>-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&show_icons=true" style="margin: 10px;"/>
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&count_private=true" style="margin: 10px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&count_private=true&show_icons=true" style="margin: 10px;"/>
 </div>
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" style="margin: 10px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG&show_icons=true" style="margin: 10px;"/>
 </div>
 
 
