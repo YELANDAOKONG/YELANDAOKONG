@@ -65,7 +65,7 @@
 ---
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=YELANDAOKONG&border_radius=8&date_format=%5BY.%5Dn.j" />
+  <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=YELANDAOKONG&border_radius=8&date_format=%5BY.%5Dn.j" /> -->
 </div>
 
 ---
