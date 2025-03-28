@@ -13,6 +13,8 @@
 
   > The reason for creating this 'organization' is that Github cannot fork the same repository twice.
 
+  > **OpenGPG:** **CD05 7731 0D45 E6AF 6565 51D7 1CBC 3D7C 0A70 2D6E** (YLDK-PUBLIC)
+
   <!--https://gitee.com/YELANDAOKONG/-->
   
 <!--</div>-->
