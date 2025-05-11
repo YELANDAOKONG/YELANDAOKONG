@@ -7,7 +7,7 @@
 
   [My Work Website(Projects/Issues/...)](https://page.dkos.xyz/)
 
-  [My Blog Website(Blog)](https://blog.yknw.xyz/)
+  [My Blog Website(Blog)](https://blog.dkos.xyz/)
 
   [My Private Organization(Github)](https://github.com/YELANDAOKONG-ORGANIZATION/)
 
