@@ -5,7 +5,7 @@
 
   > ### Welcome to My Github
 
-  [My Work Website(Projects/Issues/...)](https://page.dkos.xyz/)
+  [My Page Website(Projects/Pages/...)](https://page.dkos.xyz/)
 
   [My Blog Website(Blog)](https://blog.dkos.xyz/)
 
