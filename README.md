@@ -48,24 +48,24 @@
 </div>-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&show_icons=true" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=dark" style="tokyonight: 10px;"/>
 </div>
 
 <!--
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&count_private=true&show_icons=true" style="margin: 10px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&count_private=true&show_icons=true&theme=tokyonight" style="margin: 10px;"/>
 </div>
 -->
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG" style="margin: 10px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG&theme=tokyonight" style="margin: 10px;"/>
 </div>
 
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YELANDAOKONG&theme=react-dark&bg_color=20232a&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YELANDAOKONG&theme=react-dark&bg_color=20232a&hide_border=true&theme=tokyonight" />
 </div>
 
 ---
