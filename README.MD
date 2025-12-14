@@ -1,8 +1,6 @@
 <h2 align="center">YELANDAOKONG 📑 | Backend Engineer 💻</h2>
 
----
-
-### 👋 Welcome to My Github
+## 👋 Welcome to My Github
 
 [My Page Website(Projects/Pages/...)](https://page.dkos.xyz/)
 
@@ -14,32 +12,14 @@
 
 > The reason for creating this 'organization' is that Github cannot fork the same repository twice.
 
-
-
-> **OpenGPG Fingerprint:** **CD05 7731 0D45 E6AF 6565 51D7 1CBC 3D7C 0A70 2D6E** (YLDK-PUBLIC) [[Certificate]](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/files/YLDK-PUBLIC.asc)
-
-> **OpenGPG Fingerprint:** **8382 A4C4 7DB0 033B AB18 FD2E 9D96 9951 0960 1B29** (YLDK-PUBLIC-PLUS) [[Certificate]](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/files/YLDK-PUBLIC-PLUS.asc)
-
-  <!--https://gitee.com/YELANDAOKONG/-->
-  
-<!--</div>-->
-
 ---
 
 ### My Skills
 
 [![Skills](https://skillicons.dev/icons?i=cs,java,kotlin,nodejs,python,rust,cpp,js,ts,html,css,bootstrap,git,docker,linux,windows,vim,kubernetes,blender,godot,fastapi,flask,md,mysql,dotnet)](https://skillicons.dev)
 
-<!--
-> ### Main Programming Language Skills
-> [![Skills](https://skillicons.dev/icons?i=cs,java,python,rust)](https://skillicons.dev)
--->
 
----
-
-<!-- ![Snake](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/assets/github-contribution-grid-snake.svg) -->
-
----
+## 📈 Github Statistics
 
 <!-- <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -83,3 +63,12 @@
 </div>
 
 ---
+
+
+
+## 🔏 Certificates
+
+> **OpenGPG Fingerprint:** **CD05 7731 0D45 E6AF 6565 51D7 1CBC 3D7C 0A70 2D6E** (YLDK-PUBLIC) [[Certificate]](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/files/YLDK-PUBLIC.asc)
+
+> **OpenGPG Fingerprint:** **8382 A4C4 7DB0 033B AB18 FD2E 9D96 9951 0960 1B29** (YLDK-PUBLIC-PLUS) [[Certificate]](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/files/YLDK-PUBLIC-PLUS.asc)
+
