@@ -33,8 +33,18 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YELANDAOKONG&theme=react-dark&bg_color=20232a&hide_border=true&theme=tokyonight" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=YELANDAOKONG&theme=react-dark&bg_color=20232a&hide_border=true&theme=tokyonight"
+    />
+    <img
+      height="180"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=YELANDAOKONG&theme=react-dark&bg_color=20232a&hide_border=true&theme=radical"
+    />
+  </picture>
 </div>
+
 
 ---
 
