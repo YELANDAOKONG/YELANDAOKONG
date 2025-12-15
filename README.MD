@@ -12,9 +12,7 @@
 
 > The reason for creating this 'organization' is that Github cannot fork the same repository twice.
 
----
-
-### My Skills
+### 🏷️ My Skills
 
 [![Skills](https://skillicons.dev/icons?i=cs,java,kotlin,nodejs,python,rust,cpp,js,ts,html,css,bootstrap,git,docker,linux,windows,vim,kubernetes,blender,godot,fastapi,flask,md,mysql,dotnet)](https://skillicons.dev)
 
@@ -47,8 +45,6 @@
 
 </div>
 
-
----
 
 <div align="center">
   <picture>
