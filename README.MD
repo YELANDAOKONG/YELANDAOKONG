@@ -1,4 +1,4 @@
-<h2 align="center">YELANDAOKONG 📑 | Backend Engineer 💻</h2>
+<h2 align="center">📑 YELANDAOKONG | Backend Engineer 💻</h2>
 
 ## 👋 Welcome to My Github
 
