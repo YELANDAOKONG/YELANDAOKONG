@@ -22,11 +22,29 @@
 ## 📈 Github Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=dark" style="tokyonight: 10px;"/>
-</div>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG&theme=tokyonight" style="margin: 10px;"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=tokyonight&hide_border=true"
+    />
+    <img
+      height="225"
+      src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=radical&hide_border=true"
+    />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=tokyonight&hide_border=true"
+    />
+    <img
+      height="220"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=radical&hide_border=true"
+    />
+  </picture>
+
 </div>
 
 
