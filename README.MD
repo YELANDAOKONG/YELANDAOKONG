@@ -2,11 +2,11 @@
 
 ## 👋 Welcome to My Github
 
-[My Page Website(Projects/Pages/...)](https://page.dkos.xyz/)
+[My Page Website (Projects/Pages/Documents/...)](https://page.dkos.xyz/)
 
-[My Blog Website(Blog)](https://blog.dkos.xyz/)
+[My Blog Website (Blog)](https://blog.dkos.xyz/)
 
-[My Private Organization(Github)](https://github.com/YELANDAOKONG-ORGANIZATION/)
+[My Private Organization (Github)](https://github.com/YELANDAOKONG-ORGANIZATION/)
 
 [My Gravatar Profile](https://gravatar.com/yelandaokong)
 
