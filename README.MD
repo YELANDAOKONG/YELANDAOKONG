@@ -12,9 +12,15 @@
 
 > The reason for creating this 'organization' is that Github cannot fork the same repository twice.
 
+## 💫 About Me
+
+
+
 ## 🏷️ My Skills
 
-[![Skills](https://skillicons.dev/icons?i=cs,java,kotlin,nodejs,python,rust,cpp,js,ts,html,css,bootstrap,git,docker,linux,windows,vim,kubernetes,blender,godot,fastapi,flask,md,mysql,dotnet,androidstudio,rider,idea,arch,debian,ubuntu,arduino,atom,bash,c,express,mongodb,git,github,gitlab,go,jenkins,maven,neovim,nix&perline=15)](https://skillicons.dev)
+<!--https://skillicons.dev/icons?i=cs,java,kotlin,nodejs,python,rust,cpp,js,ts,html,css,bootstrap,git,docker,linux,windows,vim,kubernetes,blender,godot,fastapi,flask,md,mysql,dotnet,androidstudio,rider,idea,arch,debian,ubuntu,arduino,atom,bash,c,express,mongodb,git,github,gitlab,go,jenkins,maven,neovim,nix&perline=15-->
+
+![Skills](https://skillicons.dev/icons?i=cs,java,kotlin,nodejs,python,rust,cpp,js,ts,html,css,bootstrap,git,docker,linux,windows,vim,kubernetes,blender,godot,fastapi,flask,md,mysql,dotnet,androidstudio,rider,idea,arch,debian,ubuntu,arduino,atom,bash,c,express,mongodb,git,github,gitlab,go,jenkins,maven,neovim,nix,kali,gradle,mint,nextjs,nuxtjs,htmx,gtk,cloudflare,figma,nginx,powershell,raspberrypi,react,vue,sqlite,unity,electron,webpack,wordpress,workers,pycharm,spring,sublime,regex,redis,postgres,pnpm,ipfs,npm,githubactions&perline=15)
 
 
 ## 📈 Github Statistics
