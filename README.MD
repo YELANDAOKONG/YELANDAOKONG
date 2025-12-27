@@ -14,7 +14,8 @@
 
 ## 💫 About Me
 
-
+- 🔭 I am a Full Stack Developer with a passion for computer technology.
+- 💻 I primarily work with **C#, Java, Rust, and Python**, and have some familiarity with **C/C++**.
 
 ## 🏷️ My Skills
 
