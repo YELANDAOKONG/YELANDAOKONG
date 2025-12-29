@@ -59,11 +59,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-status.dkos.xyz/api?username=YELANDAOKONG&show_icons=true&theme=tokyonight&hide_border=true"
+      srcset="https://github-status.dkos.xyz/api?username=YELANDAOKONG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER"
     />
     <img
       height="195"
-      src="https://github-status.dkos.xyz/api?username=YELANDAOKONG&show_icons=true&theme=radical&hide_border=true"
+      src="https://github-status.dkos.xyz/api?username=YELANDAOKONG&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER"
     />
   </picture>
 
