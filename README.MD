@@ -67,7 +67,11 @@
 
 ## 🔏 Certificates
 
+<details>
+<summary>🔐 GPG Public Keys</summary>
+
 > **OpenGPG Fingerprint:** **CD05 7731 0D45 E6AF 6565 51D7 1CBC 3D7C 0A70 2D6E** (YLDK-PUBLIC) [[Certificate]](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/files/YLDK-PUBLIC.asc)
 
 > **OpenGPG Fingerprint:** **8382 A4C4 7DB0 033B AB18 FD2E 9D96 9951 0960 1B29** (YLDK-PUBLIC-PLUS) [[Certificate]](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/files/YLDK-PUBLIC-PLUS.asc)
 
+</details>
