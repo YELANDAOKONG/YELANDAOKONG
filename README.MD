@@ -1,6 +1,13 @@
 <h2 align="center">📑 YELANDAOKONG | Software Engineer 💻</h2>
 
-## 👋 Welcome to My Github
+<p align="center">
+  <strong>Refactoring the World with Code.</strong><br>
+  Full Stack Developer & Open Source Enthusiast
+</p>
+
+<!-- ## 👋 Welcome to My Github -->
+
+<div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Website-Page.dkos.xyz-blue?style=for-the-badge)](https://page.dkos.xyz/)
 
@@ -9,6 +16,8 @@
 [![Organization](https://img.shields.io/badge/🏢_Organization-GitHub-black?style=for-the-badge)](https://github.com/YELANDAOKONG-ORGANIZATION/)
 
 > The reason for creating this 'organization' is that Github cannot fork the same repository twice.
+
+</div>
 
 ## 💫 About Me
 
