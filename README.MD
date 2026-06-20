@@ -22,6 +22,7 @@
 - 🔭 I’m a Full Stack Developer who loves building tools and open-source projects.
 - 💻 My primary languages are **C#, Java, Rust, and Python**, and I also have working knowledge of **C/C++**.
 - 🌱 Currently focused on deepening my expertise in system-level programming and open-source contributions.
+- 🍥 Love and proficient with Debian-based distros, they remind me of narutomaki~ meow
 
 ## 🏷️ My Skills
 
