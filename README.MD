@@ -2,13 +2,11 @@
 
 ## 👋 Welcome to My Github
 
-[My Page Website (Projects/Pages/Documents/...)](https://page.dkos.xyz/)
+[![Website](https://img.shields.io/badge/🌐_Website-Page.dkos.xyz-blue?style=for-the-badge)](https://page.dkos.xyz/)
 
-[My Blog Website (Blog)](https://blog.dkos.xyz/)
+[![Blog](https://img.shields.io/badge/📝_Blog-blog.dkos.xyz-orange?style=for-the-badge)](https://blog.dkos.xyz/)
 
-[My Private Organization (Github)](https://github.com/YELANDAOKONG-ORGANIZATION/)
-
-[My Gravatar Profile](https://gravatar.com/yelandaokong)
+[![Organization](https://img.shields.io/badge/🏢_Organization-GitHub-black?style=for-the-badge)](https://github.com/YELANDAOKONG-ORGANIZATION/)
 
 > The reason for creating this 'organization' is that Github cannot fork the same repository twice.
 
