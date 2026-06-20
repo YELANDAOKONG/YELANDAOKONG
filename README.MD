@@ -24,34 +24,6 @@
 
 ## 📈 Github Statistics
 
-<!--
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=tokyonight&hide_border=true"
-    />
-    <img
-      height="195"
-      src="https://github-readme-stats.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=radical&hide_border=true"
-    />
-  </picture>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=tokyonight&hide_border=true"
-    />
-    <img
-      height="195"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=radical&hide_border=true"
-    />
-  </picture>
-
-</div>
--->
-
 <div align="center">
 
   <picture>
