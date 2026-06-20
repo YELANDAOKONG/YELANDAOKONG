@@ -1,19 +1,23 @@
 <h2 align="center">📑 YELANDAOKONG | Software Engineer 💻</h2>
 
+## 👋 Welcome to My Github
+
 <p align="center">
   <strong>Refactoring the World with Code.</strong><br>
   Full Stack Developer & Open Source Enthusiast
 </p>
 
-## 👋 Welcome to My Github
-
-[![Website](https://img.shields.io/badge/🌐_Website-Page.dkos.xyz-blue?style=for-the-badge)](https://page.dkos.xyz/)
-
-[![Blog](https://img.shields.io/badge/📝_Blog-blog.dkos.xyz-orange?style=for-the-badge)](https://blog.dkos.xyz/)
-
-[![Organization](https://img.shields.io/badge/🏢_Organization-GitHub-black?style=for-the-badge)](https://github.com/YELANDAOKONG-ORGANIZATION/)
-
-> The reason for creating this 'organization' is that Github cannot fork the same repository twice.
+<div align="center">
+  <a href="https://page.dkos.xyz/">
+    <img src="https://img.shields.io/badge/🌐_Website-page.dkos.xyz-blue?style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://blog.dkos.xyz/">
+    <img src="https://img.shields.io/badge/📝_Blog-blog.dkos.xyz-orange?style=for-the-badge" alt="Blog">
+  </a>
+  <a href="https://github.com/YELANDAOKONG-ORGANIZATION/">
+    <img src="https://img.shields.io/badge/🏢_Organization-YeKong%20Infinite%20Studio-black?style=for-the-badge" alt="Organization">
+  </a>
+</div>
 
 ## 💫 About Me
 
