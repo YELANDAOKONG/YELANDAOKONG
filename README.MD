@@ -1,5 +1,10 @@
 <h2 align="center">📑 YELANDAOKONG | Software Engineer 💻</h2>
 
+<p align="center">
+  <strong>Refactoring the World with Code.</strong><br>
+  Full Stack Developer & Open Source Enthusiast
+</p>
+
 ## 👋 Welcome to My Github
 
 [![Website](https://img.shields.io/badge/🌐_Website-Page.dkos.xyz-blue?style=for-the-badge)](https://page.dkos.xyz/)
