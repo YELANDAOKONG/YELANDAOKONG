@@ -2,22 +2,13 @@
 
 ## 👋 Welcome to My Github
 
-<p align="center">
-  <strong>Refactoring the World with Code.</strong><br>
-  Full Stack Developer & Open Source Enthusiast
-</p>
+[![Website](https://img.shields.io/badge/🌐_Website-Page.dkos.xyz-blue?style=for-the-badge)](https://page.dkos.xyz/)
 
-<div align="center">
-  <a href="https://page.dkos.xyz/">
-    <img src="https://img.shields.io/badge/🌐_Website-page.dkos.xyz-blue?style=for-the-badge" alt="Website">
-  </a>
-  <a href="https://blog.dkos.xyz/">
-    <img src="https://img.shields.io/badge/📝_Blog-blog.dkos.xyz-orange?style=for-the-badge" alt="Blog">
-  </a>
-  <a href="https://github.com/YELANDAOKONG-ORGANIZATION/">
-    <img src="https://img.shields.io/badge/🏢_Organization-YeKong%20Infinite%20Studio-black?style=for-the-badge" alt="Organization">
-  </a>
-</div>
+[![Blog](https://img.shields.io/badge/📝_Blog-blog.dkos.xyz-orange?style=for-the-badge)](https://blog.dkos.xyz/)
+
+[![Organization](https://img.shields.io/badge/🏢_Organization-GitHub-black?style=for-the-badge)](https://github.com/YELANDAOKONG-ORGANIZATION/)
+
+> The reason for creating this 'organization' is that Github cannot fork the same repository twice.
 
 ## 💫 About Me
 
@@ -80,4 +71,3 @@
 > **OpenGPG Fingerprint:** **CD05 7731 0D45 E6AF 6565 51D7 1CBC 3D7C 0A70 2D6E** (YLDK-PUBLIC) [[Certificate]](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/files/YLDK-PUBLIC.asc)
 
 > **OpenGPG Fingerprint:** **8382 A4C4 7DB0 033B AB18 FD2E 9D96 9951 0960 1B29** (YLDK-PUBLIC-PLUS) [[Certificate]](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/files/YLDK-PUBLIC-PLUS.asc)
-
