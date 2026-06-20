@@ -12,8 +12,9 @@
 
 ## 💫 About Me
 
-- 🔭 I am a Full Stack Developer with a passion for computer technology.
-- 💻 I primarily work with **C#, Java, Rust, and Python**, and have some familiarity with **C/C++**.
+- 🔭 I’m a Full Stack Developer who loves building tools and open-source projects.
+- 💻 My primary languages are **C#, Java, Rust, and Python**, and I also have working knowledge of **C/C++**.
+- 🌱 Currently focused on deepening my expertise in system-level programming and open-source contributions.
 
 ## 🏷️ My Skills
 
