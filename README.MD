@@ -1,4 +1,4 @@
-<h2 align="center">📑 YELANDAOKONG | Software Engineer 💻</h2>
+<h2 align="center">📑 YELANDAOKONG 🍥 | 🛠️ Software Engineer 💻</h2>
 
 <p align="center">
   <strong>Refactoring the World with Code.</strong><br>
