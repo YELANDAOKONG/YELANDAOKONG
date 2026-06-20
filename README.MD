@@ -82,4 +82,4 @@
 
 > **OpenGPG Fingerprint:** **831F 5F28 FA98 CCB2 62F3 8FFA D6F6 BE7A 9731 4403** (YLDK-CODE) [[Certificate]](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/files/YLDK-CODE.asc)
 
-
+> **OpenGPG Fingerprint:** **3814 2085 29F8 8AA8 C3B4 E403 E8A2 0C4A 644D 7B3E** (YLDK-CODE) [[Certificate]](https://raw.githubusercontent.com/YELANDAOKONG/YELANDAOKONG/main/files/YLDK-CODE-NEXT.asc)
