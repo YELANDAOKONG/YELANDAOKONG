@@ -12,7 +12,10 @@
 [![Website](https://img.shields.io/badge/🌐_Website-Page.dkos.xyz-blue?style=for-the-badge)](https://page.dkos.xyz/)
 [![Blog](https://img.shields.io/badge/📝_Blog-blog.dkos.xyz-orange?style=for-the-badge)](https://blog.dkos.xyz/)
 [![Organization](https://img.shields.io/badge/🏢_Organization-GitHub-black?style=for-the-badge)](https://github.com/YELANDAOKONG-ORGANIZATION/)
+
+<!--
 [![Projects](https://img.shields.io/badge/📦_Projects-Collection-purple?style=for-the-badge)](https://github.com/YELANDAOKONG/Projects)
+-->
 
 > The reason for creating this 'organization' is that Github cannot fork the same repository twice.
 
@@ -110,7 +113,8 @@
 
 -->
 
-
+## 🚀 Featured Projects
+> Explore my full curated project directory at **[Projects](https://github.com/YELANDAOKONG/Projects)** 📑
 
 
 ## 🔏 Certificates
