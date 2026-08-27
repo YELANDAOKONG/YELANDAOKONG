@@ -93,6 +93,8 @@
 
 ---
 
+<!--
+
 <div align="center">
   <picture>
     <source
@@ -103,8 +105,12 @@
   </picture>
 </div>
 
-
 ---
+
+-->
+
+
+
 
 ## 🔏 Certificates
 
