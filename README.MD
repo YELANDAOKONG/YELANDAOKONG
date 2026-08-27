@@ -34,6 +34,8 @@
 
 ## 📈 Github Statistics
 
+<!--
+
 <div align="center">
 
   <picture>
@@ -55,6 +57,35 @@
     <img
       height="195"
       src="https://github-status.dkos.xyz/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=radical&hide_border=true"
+    />
+  </picture>
+
+</div>
+
+-->
+
+
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER"
+    />
+    <img
+      height="195"
+      src="https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER"
+    />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=tokyonight&hide_border=true"
+    />
+    <img
+      height="195"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=radical&hide_border=true"
     />
   </picture>
 
