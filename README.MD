@@ -71,27 +71,21 @@
 
 <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER"
-    />
-    <img
-      height="195"
-      src="https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER"
-    />
-  </picture>
+  <!-- Stats -->
+  <a href="https://github.com/YELANDAOKONG">
+    <img height="195" src="https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/YELANDAOKONG">
+    <img height="195" src="https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=default&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" />
+  </a>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=tokyonight&hide_border=true"
-    />
-    <img
-      height="195"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=radical&hide_border=true"
-    />
-  </picture>
+  <!-- Top Languages -->
+  <a href="https://github.com/YELANDAOKONG">
+    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/YELANDAOKONG">
+    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />
+  </a>
 
 </div>
 
