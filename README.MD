@@ -71,16 +71,24 @@
 
 <div align="center">
 
-<!-- Stats -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only)](https://github.com/YELANDAOKONG#gh-dark-mode-only)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=default&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only)](https://github.com/YELANDAOKONG#gh-light-mode-only)
+<table>
+<tr>
+<td>
 
-<!-- Top Languages -->
+[![夜喵稻空's GitHub Stats](https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only)](https://github.com/YELANDAOKONG#gh-dark-mode-only)
+[![夜喵稻空's GitHub Stats](https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=default&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only)](https://github.com/YELANDAOKONG#gh-light-mode-only)
+
+</td>
+<td>
+
 [![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/YELANDAOKONG#gh-dark-mode-only)
 [![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/YELANDAOKONG#gh-light-mode-only)
 
-</div>
+</td>
+</tr>
+</table>
 
+</div>
 ---
 
 <!--
