@@ -71,21 +71,13 @@
 
 <div align="center">
 
-  <!-- Stats -->
-  <a href="https://github.com/YELANDAOKONG">
-    <img height="195" src="https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" />
-  </a>
-  <a href="https://github.com/YELANDAOKONG">
-    <img height="195" src="https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=default&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" />
-  </a>
+<!-- Stats -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only)](https://github.com/YELANDAOKONG#gh-dark-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YELANDAOKONG&show_icons=true&theme=default&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only)](https://github.com/YELANDAOKONG#gh-light-mode-only)
 
-  <!-- Top Languages -->
-  <a href="https://github.com/YELANDAOKONG">
-    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
-  </a>
-  <a href="https://github.com/YELANDAOKONG">
-    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />
-  </a>
+<!-- Top Languages -->
+[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/YELANDAOKONG#gh-dark-mode-only)
+[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YELANDAOKONG&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/YELANDAOKONG#gh-light-mode-only)
 
 </div>
 
